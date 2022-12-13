@@ -18,7 +18,7 @@ buildscript {
 
         spongycastle_version = "1.58.0.0"
         kmnid_version = "0.3.2"
-        kethereum_version = "0.75.1"
+        kethereum_version = "uport-SNAPSHOT"
 
         current_release_version = "0.1.2"
     }

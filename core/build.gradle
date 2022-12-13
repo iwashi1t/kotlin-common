@@ -17,8 +17,8 @@ dependencies {
 
     api "com.squareup.okhttp3:okhttp:$okhttp_version"
     api "com.github.uport-project:kmnid:$kmnid_version"
-    api "com.github.komputing.KEthereum:functions:$kethereum_version"
-    api "com.github.komputing.KEthereum:crypto:$kethereum_version"
+    api "com.github.iwashi1t.KEthereum:functions:$kethereum_version"
+    api "com.github.iwashi1t.KEthereum:crypto:$kethereum_version"
     implementation "com.madgag.spongycastle:core:$spongycastle_version"
 
     testImplementation "junit:junit:$junit_version"
